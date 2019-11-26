@@ -1,2 +1,1 @@
-# ProStudy
-practice
+Hello ;)
